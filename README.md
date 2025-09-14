@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SwethaSuresh-Kumar/NFT-Preview-card](https://github.com/SwethaSuresh-Kumar/NFT-Preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://prj-previewcards.netlify.app/](https://prj-previewcards.netlify.app/)
 
 ## My process
 
